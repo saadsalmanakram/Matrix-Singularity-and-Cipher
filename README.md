@@ -3,8 +3,7 @@
 
 # 📊 Matrix, Singularity, and Cipher – The Ultimate Guide to Mathematics, Physics, and Computing  
 
-![Mathematics & Physics](https://cdn.pixabay.com/photo/2024/04/07/19/02/matrix-8682051_1280.png)  
-
+![Mathematics & Physics](https://cdn.pixabay.com/photo/2024/06/22/18/16/ai-generated-8846765_1280.png)  
 ## 📌 Introduction  
 
 Mathematics, Physics, and Computing are the **fundamental pillars** of modern science and technology. This repository serves as a **comprehensive guide** to understanding advanced topics in **Linear Algebra, Calculus, Quantum Mechanics, Cryptography, and Computational Mathematics**.  
