@@ -32,10 +32,7 @@ Matrix-Singularity-and-Cipher/
 │── mathematics/        # Pure and Applied Mathematics
 │── physics/            # Classical and Quantum Physics
 │── computing/          # Computational Mathematics and Algorithms
-│── cryptography/       # Cryptography and Secure Communications
-│── notebooks/          # Jupyter notebooks with hands-on examples
 │── README.md           # Documentation
-└── requirements.txt    # Python dependencies
 ```
 
 ---
